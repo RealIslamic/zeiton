@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "strict": true,
+        "jsx": "react",
+        "baseUrl": "./src", // Ensure the baseUrl points to the correct directory
+        "paths": {
+            "@components*": ["components/*"],
+            "@pages*": ["pages/*"]
+        },
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src"]
+}

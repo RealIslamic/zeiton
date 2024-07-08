@@ -1,0 +1,11 @@
+{
+    "env": {
+        "browser": true,
+        "node": true,
+        "serviceworker": true
+    },
+    "extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended", "react-app", "react-app/jest"],
+    "rules": {
+        // Your other rules...
+    }
+}
