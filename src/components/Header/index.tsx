@@ -7,7 +7,7 @@ const Header = () => {
             <div className=" mx-auto flex justify-between items-center gap-6">
                 <Link to={'/'} className="text-xl font-bold flex items-center flex-row-reverse">
                     زیتون
-                    <img alt="zeitoon" className="w-10 h-10" src="/icon.png" />
+                    <img alt="zeitoon" className="w-10 h-10" src="icon.png" />
                 </Link>
             </div>
         </header>

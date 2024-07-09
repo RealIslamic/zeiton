@@ -15,7 +15,7 @@ function Home() {
         { label: 'انجیل', content: <SurahList bookName="babel" data={books?.slice(39, 43)} /> },
     ];
     useEffect(() => {
-        fetch('/books/books.json')
+        fetch('books/books.json')
             .then((response) => response.json())
             .then((jsonData: Surah[]) => {
                 const dataWithIndex = jsonData.map((item, index) => ({

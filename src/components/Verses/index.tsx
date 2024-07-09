@@ -41,7 +41,7 @@ const Verses = ({
 
                 <div className="flex flex-wrap w-full">
                     <div className="ml-0.75 flex flex-col gap-2">
-                        <div className="flex gap-2">
+                        <div className="flex gap-2 flex-wrap">
                             {originalText?.map((text, i) => (
                                 <div className="flex flex-col gap-1" key={i}>
                                     <span className="font-medium text-xl">{text}</span>
@@ -49,7 +49,7 @@ const Verses = ({
                                 </div>
                             ))}
                         </div>
-                        <div className="font-medium text-sm h-3 text-white">{persianText}</div>
+                        <div className="font-medium text-sm text-white">{persianText}</div>
                     </div>
                 </div>
             </div>
