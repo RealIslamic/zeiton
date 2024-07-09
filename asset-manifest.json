@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zeiton/static/css/main.56f9ffea.css",
-    "main.js": "/zeiton/static/js/main.98867f27.js",
+    "main.js": "/zeiton/static/js/main.6176b968.js",
     "static/media/Vazir-Light-FD.woff": "/zeiton/static/media/Vazir-Light-FD.82d29f59474c15dcfd2b.woff",
     "static/media/Vazir-Black-FD.woff": "/zeiton/static/media/Vazir-Black-FD.5d4ff44ad81392aded62.woff",
     "static/media/Vazir-Bold-FD.woff": "/zeiton/static/media/Vazir-Bold-FD.6cf49988b6d4103429eb.woff",
@@ -10,10 +10,10 @@
     "static/media/Vazir-FD.woff": "/zeiton/static/media/Vazir-FD.1535d34dd2c1b484fa07.woff",
     "index.html": "/zeiton/index.html",
     "main.56f9ffea.css.map": "/zeiton/static/css/main.56f9ffea.css.map",
-    "main.98867f27.js.map": "/zeiton/static/js/main.98867f27.js.map"
+    "main.6176b968.js.map": "/zeiton/static/js/main.6176b968.js.map"
   },
   "entrypoints": [
     "static/css/main.56f9ffea.css",
-    "static/js/main.98867f27.js"
+    "static/js/main.6176b968.js"
   ]
 }
